@@ -1,4 +1,4 @@
-# Curso Jetpack Compose-by MoureDev
+# Curso Jetpack Compose - by MoureDev
 Seguimiento del curso de MoureDev sobre Jetpack Compose
 
 Puedes ver los vídeos del curso aquí 👇
